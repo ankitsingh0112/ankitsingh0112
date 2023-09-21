@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsingh0112&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh0112" /> </p>
 
-- 🔭 I’m currently working on **improving my skills and adding new skills**
+- 🔭 I’m currently focused on **improving myself and learning new skills**
 
-- 🌱 I’m currently learning **React DSA JAVA**
+- 🌱 I’m currently learning **React, DSA, JAVA**
 
 - 👨‍💻 All of my projects are available at [https://ankit-kumar-singh-portfolio.netlify.app/](https://ankit-kumar-singh-portfolio.netlify.app/)
 
