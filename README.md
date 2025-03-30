@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **honing my skills and adding new skills**
 
-- 🌱 I’m currently learning **React, Spring and Spring Boot**
+- 🌱 I’m currently learning **Java, React and Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://ankit-kumar-singh-portfolio.netlify.app/](https://ankit-kumar-singh-portfolio.netlify.app/)
+- 👨‍💻 You can checkout my portfolio to see my work [https://ankit-kumar-singh-portfolio.netlify.app/](https://ankit-kumar-singhportfolio.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, C, C++, JAVA, DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, C, C++, JAVA, Spring Boot**
 
 - 📫 How to reach me **ankitajnavi@gmail.com**
 
