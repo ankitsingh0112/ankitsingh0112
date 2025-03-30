@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, React and Spring Boot**
 
-- 👨‍💻 You can checkout my portfolio to see my work [https://ankit-kumar-singh-portfolio.netlify.app/](https://ankit-kumar-singhportfolio.vercel.app/)
+- 👨‍💻 You can checkout my portfolio to see my work [https://ankit-kumar-singhportfolio.vercel.app/](https://ankit-kumar-singhportfolio.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, C, C++, JAVA, Spring Boot**
 
